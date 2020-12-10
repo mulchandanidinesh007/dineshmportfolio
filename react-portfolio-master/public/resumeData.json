@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Dinesh Mulchandani",
+    "occupation": "Business Intelligence Analyst with a Masters in Computer Science",
+    "description": "Expertise in working with large data sets in SQL, Python, SPSS, Tableau and Power BI",
+    "image": "din.jpeg",
+    "bio": "Business Intelligence Analyst with 3+ years of professional work experience at a leading investment bank and Masters in Computer Science",
+    "contactmessage": "Get in touch with me for full time roles avvailable in Canada",
+    "email": "mulchandanidinesh007@gmail.com",
+    "phone": "+1 902 402 6204",
+    "address": {
+      "street": "1333 South Park Street",
+      "city": "Canada",
+      "state": "NS",
+      "zip": "B3J2K9"
+    },
+    "website": "https://drive.google.com/file/d/14XhgSGXe0ULa7xl6AwKm2iLpiFqDlvp7/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/14XhgSGXe0ULa7xl6AwKm2iLpiFqDlvp7/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dinesh-mulchandani-989479152/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mulchandanidinesh007",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical Skills",
+    "education": [
+      {
+        "school": "Dalhousie University - Canada",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2021",
+        "description": "GPA: 4.14 / 4.33"
+      },
+      {
+        "school": "Veermata Jijabai Technological Institute - India",
+        "degree": "Bachelors in Information Technology",
+        "graduated": "May 2016",
+        "description": "GPA: 8.70 / 10.0"
+      }
+    ],
+    "work": [
+      {
+        "company": "Barclays Bank",
+        "title": "Business Analyst",
+        "years": "August 2016 - July 2019",
+        "description": "Responsible for delivering quality and robust business dashboard solutions to clients for making strategic decisions. Handled complete ownership of 5 asset classes (Credit, FX, Rates Linear, TRS and Equities) for delivering interactive solutions using BI Platforms."
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL & PL / SQL",
+        "level": "90%"
+      },
+      {
+        "name": "Python, Excel, Scikit-Learn, Supervised ML",
+        "level": "90%"
+      },
+      {
+        "name": "Tableau",
+        "level": "85%"
+      },
+      {
+        "name": "Power BI",
+        "level": "80%"
+      },
+      {
+        "name": "Azure ML Studio",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }, 
+      {
+        "name": "JIRA, Sharepoint, Confluence",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Twitter Sentiment Analysis",
+        "category": "Twitter Sentiment Analysis (Python, Flask, HTML, JS, Plotly, Dash)",
+        "image": "twitter_sentiment.png",
+        "url": "https://github.com/mulchandanidinesh007/Twitter_Sentiment_Analysis"
+      },
+      {
+        "title": "Employee Absenteeism",
+        "category": "Predicting Employee Absenteeism at Work (Python and Tableau)",
+        "image": "employee.png",
+        "url": "https://github.com/mulchandanidinesh007/Predicting_Employee_Absenteeism_At_Work"
+      },
+      {
+        "title": "Patient Behaviour Prediction",
+        "category": "Patient Behaviour Prediction with Azure ML Studio",
+        "image": "pat.jpg",
+        "url": "https://github.com/mulchandanidinesh007/Patient_Behaviour_Prediction"
+      },
+      {
+        "title": "Game Avatar Selection",
+        "category": "Game Avatar Selection using EEG Data with Python and Supervised ML",
+        "image": "game.webp",
+        "url": "https://github.com/mulchandanidinesh007"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Dinesh did an exceptional job completing a directed reading course on brain computer interfaces (BCI), which I was privileged to co-supervise. Dinesh demonstrated that he was able to very quickly learn the Python programming language and related libraries (PyGame, Scikit-Learn) which were instrumental to our research goals. Brain-computer interfaces are difficult technologies which draw on domain expertise from neuroscience, user experience, and machine learning. In order to complete this project, Dinesh demonstrated that he was able to work well with domain experts (neuroscientists) and effectively translate complex concepts into tangible, working software. The output of this course was a paper presented at the 2020 NeuroIS retreat-- no small feat for a course project! I believe that Dinesh is becoming the sort of of reflective and critical computer scientist, who truly drives a organization's value creation process forward. I wholeheartedly recommend him for both academic work and industry; he will not disappoint! ",
+        "user": "Colin Conrad - Assistant Prof. at Dalhousie Univeristy"
+      },
+      {
+        "text": "Dinesh is a faster learner and works hard in our team. He is a motivated to always deliver good quality software.",
+        "user": "Zheng Yu - Vice President at Barclays"
+      }
+    ]
+  }
+}
